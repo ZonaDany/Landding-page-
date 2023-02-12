@@ -1,0 +1,42 @@
+.benefics{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #55555549;
+    width: 99%;
+    padding: 5px;
+    border-radius: 6px;
+    margin-left: 4px;
+}
+
+.benefics h1{
+    letter-spacing: 1px;
+}
+
+.points-benefics{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;   
+}
+
+.card{
+    margin-top: 100px;
+    width: 300px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.card img{
+    width: 100px;
+    height: 100px;
+}
+.card p{
+    margin-top: 20px;
+    width: 300px;
+    color: #000;
+}

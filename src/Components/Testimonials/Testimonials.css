@@ -1,0 +1,51 @@
+.testimonial{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 70px
+}
+.testimonial h1{
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.card-testimonial{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 70%;
+    height: 200px;
+    margin: 40px;
+    box-shadow: 0px 10px 10px 0px;
+    border-radius: 5px;
+}
+
+.card-testimonial .person{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 100%;
+    background-color: #cecece;
+}
+.card-testimonial .person img{
+    border-radius: 50%;
+}
+
+.card-testimonial .history{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    width: 70%;
+}
+
+.card-testimonial .history p{
+    text-align: justify;
+    width: 80%;
+}

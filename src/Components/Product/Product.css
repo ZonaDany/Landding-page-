@@ -1,0 +1,20 @@
+.services-products{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: #9cc3e2;
+}
+
+.services-products img{
+    width: 700px;
+    margin-right: 60px;
+}
+
+.services-products .services{
+    text-align: justify;
+    letter-spacing: 2px;
+    font-size: 20px;
+}

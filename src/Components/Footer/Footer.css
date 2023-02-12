@@ -1,0 +1,42 @@
+.footer{
+    background-color: #000;
+    color: #ffffff7e;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer .mision{
+    width: 30%;
+    text-align: justify;
+}
+
+.footer .mision img{
+    width: 20%;
+    border-radius: 50%;
+}
+
+.footer .contact{
+    width: 30%;   
+}
+
+.footer .red-social{
+    display: flex; 
+    justify-content: center;
+    text-align: center;
+}
+
+.footer .red-social img{
+    width: 30px;
+}
+.footer .red-social p{
+    width:100px;
+    text-align: justify;
+}
+
+.footer .created-by .zero{
+    border-radius: 50%;
+}
